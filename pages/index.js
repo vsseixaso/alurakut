@@ -22,8 +22,7 @@ export default function Home() {
     'omariosouto',
     'diego3g',
     'filipedeschamps',
-    'juunegreiros',
-    'felipefialho'
+    'juunegreiros'
   ]
 
   return (
